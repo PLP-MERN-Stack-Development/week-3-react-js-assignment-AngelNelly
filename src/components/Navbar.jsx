@@ -6,7 +6,7 @@ export default function Navbar() {
       <ul className="flex gap-4">
         <li><Link to="/" className="hover:underline">Home</Link></li>
         <li><Link to="/about" className="hover:underline">About</Link></li>
-        <li><Link to="/posts" className="hover:underline">Posts</Link></li> {/* 👈🏽 new */}
+        <li><Link to="/posts" className="hover:underline">Posts</Link></li>
       </ul>
 
     </nav>
