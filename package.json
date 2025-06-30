@@ -2,9 +2,7 @@
   "name": "clear",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
-  "homepage": "https://plp-mern-stack-development.github.io/week-3-react-js-assignment-AngelNelly"
-,
+  "type": "module", 
   "scripts": {
     "dev": "vite",
     "build": "vite build",
